@@ -14,3 +14,5 @@ Github协作教程，本项目帮助你提前熟悉在线协作教程，你可�
 [1] [Gitkraken](https://www.gitkraken.com/)
 
 [2] [Github团队协作教程（Gitkraken版）](https://www.cnblogs.com/thousfeet/p/7840932.html)
+
+[3] [面向小白详细介绍Git和GitKraken的使用（UP主：wkgl广隶）](https://www.bilibili.com/video/BV1bK4y1t7CD?from=search&amp;seid=15547533998579929746 )
