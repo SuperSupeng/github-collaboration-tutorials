@@ -62,6 +62,8 @@ subranium/getData
 
 ## 推荐资源
 
+[0] 特别推荐：[learnGitBranching](https://learngitbranching.js.org/?locale=zh_CN)
+
 [1] [GitHub基本概念理解（微信公众号：知识沉淀部落）](https://mp.weixin.qq.com/s?__biz=MzAwODUyMjk1NQ==&mid=2247483661&idx=1&sn=7ffe3e4685e1ac3e2310a5c6f11f6730&chksm=9b6cdca9ac1b55bfdfd721e082b323bedc72e4ea052b3a9e1291eee8303ca78dbf9abe6d1f4d&scene=126&sessionid=1596346457&key=ebb412db45555e1dc815665ca63509ec822a4fa5e02496552e9831c278df66b8a3fe94fadd8d2deace387921f0f7e091999d05dc8f7cf9f89b72235b31c25ca3c19c40ea89f75be98e3531b7b3d0678b86cbe43e771b6546b3fb38e2434691be7a71eb05e8b4d8c5060cf202c6b18ba61d743e5995f393807e240dd15613eef0&ascene=1&uin=MTcyNTMxODQzOA%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AxRqDshfuvTyWnnLz4QeQhk%3D&pass_ticket=fifDZE3OhWi02qbAUsFNOGkF%2BW0W5Tdb39TbhqFaJsZAcgJ7R5MfebbmfE4ml%2F1E&wx_header=0)
 
 [2] [Gitkraken](https://www.gitkraken.com/)
