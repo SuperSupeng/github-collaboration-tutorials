@@ -71,3 +71,5 @@ subranium/getData
 [4] [面向小白详细介绍Git和GitKraken的使用（UP主：wkgl广隶）](https://www.bilibili.com/video/BV1bK4y1t7CD?from=search&amp;seid=15547533998579929746 )
 
 [5] [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+[6] [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN)
